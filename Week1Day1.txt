@@ -1,0 +1,137 @@
+Agenda for the day:
+==================
+
+Introduction to Rest API
+What
+Why
+How
+Introduction to PostMan
+
+
+https://dev90367.service-now.com/
+admin
+Nxxro1OKD@@4
+
+
+Webservice-API's which works /needs internet to work --http/https
+
+API can work with/without internet-- Apache POI to read/write excel
+
+6 --API Automation
+2 -- API Performance 
+
+zephyr,Xray --AIO Tests
+
+
+Leaf tap-CRM
+
+CRUD 
+
+Create  --Create --201
+Read  --Select -200
+Update --Update
+Delete --Delete
+
+CRUD Operations:
+=================
+
+Create --Post method
+Read --Get method
+Update-- Put and Patch
+Delete-Delete
+
+Put--update as a whole
+Patch --update as a part
+
+Post,Get,Put,Patch and Delete
+
+Authentication and Authorization
+
+1) ID Card/Access --Office
+2) ID/Acess --Server Room ?--Access ?
+
+ID --Verifying my identity  --Authentication
+Server -- Privileged Access  --Authorization
+
+1) Normal user ---Authorization
+2) Admin--
+3) Super Admin
+
+Headers
+
+1) Content type
+2) Accept 
+3) Cookies
+
+
+Postman:
+=======
+Tool to test only API's
+Semi Automation Tool
+Freemium
+
+
+1) Create Collection in Postman
+
+5 Step Process:
+===============
+
+1) API Documentation
+
+1) Login to Servicenow Instance
+2) Click on the ALL menu in the Homepage
+3) In filter type explorer and click on "RestAPI Explorer"
+
+Rest API Explorer --API Requirement Document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+API
